@@ -1,0 +1,26 @@
+<?php
+return [
+
+    'sections_list'=>'Sections list',
+    'title'=>'List of sections',
+    'add_section'=>'Add section',
+    'section_name'=>'Section name',
+    'class_name'=>'Class name',
+    'status'=>'Status',
+    'processes'=>'Processing',
+    'edit'=>'Edit',
+    'delete'=>'Delete',
+    'edit_section'=>'Edit section',
+    'grade_name'=>'Grade name',
+    'close'=>'Close',
+    'delete_section'=>'Delete section',
+    'warning_delete_section'=>'Are you sure want to delete',
+    'section_name_ar'=>'Section name at arabic',
+    'section_name_en'=>'section name at english',
+    'grade_select'=>'Grade select',
+    'add_success'=>'Section has added successfully',
+    'status_section_AC'=>'Active',
+    'status_section_No'=>'Denied',
+    'edit_success'=>'Section has been edited successfully',
+    'delete.success'=>'Section has been deleted successfully',
+];

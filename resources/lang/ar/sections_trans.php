@@ -1,0 +1,26 @@
+<?php
+return [
+
+    'sections_list'=>'قائمة الاقسام',
+    'title'=>'قائمة الأقسام',
+    'add_section'=>'إضافة قسم',
+    'section_name'=>'اسم القسم',
+    'class_name'=>'اسم الصف',
+    'status'=>'الحالة',
+    'processes'=>'العمليات',
+    'edit'=>'نعديل',
+    'delete'=>'حذف',
+    'edit_section'=>'تعديل القسم',
+    'grade_name'=>'اسم المرحلة',
+    'close'=>'إغلاق',
+    'delete_section'=>'حذف القسم',
+    'warning_delete_section'=>'هل أنت متأكد من عملية الحذف',
+    'section_name_ar'=>'اسم القسم بالعربية',
+    'section_name_en'=>'اسم القسم بالانجليزية',
+    'grade_select'=>'اختيار القسم',
+    'add_success'=>'تم إضافة القسم بنجاح',
+    'status_section_AC'=>'نشط',
+    'status_section_No'=>'معطل',
+    'edit_success'=>'تم تعديل القسم بنجاح',
+    'delete.success'=>'تم حذف القسم بنجاح',
+];
